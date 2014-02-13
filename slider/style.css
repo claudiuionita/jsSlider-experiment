@@ -1,0 +1,28 @@
+img {
+height: auto;
+width: 300px;
+}
+
+.visible {
+display: block;
+margin: 0 auto;
+}
+
+.hidden {
+display: none;
+}
+
+.slider-wrapper {
+margin: 0 auto;
+height: 250px;
+margin-top: 20px;
+}
+
+.page-wrapper {
+width: 100%;
+}
+
+.slider-controls {
+max-width: 160px; 
+margin: 0 auto;
+}
